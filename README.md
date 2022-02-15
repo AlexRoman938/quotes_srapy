@@ -1,1 +1,1 @@
-This repository is about the course Scrapy from Platzi.
+<h1> A BASIC WEB SCRAPING TO QUOTES TO SCRAPE WEBSITE </h1>
