@@ -29,7 +29,7 @@ In quotes to scrape website there are many quotes with its respective authors. T
 
 <h2> DEVELOPING </h3>
 
-</h3> TO GET XPATH </h3>
+<h3> TO GET XPATH </h3>
 
 First, we need to into inspect element, and visualize the HTML structure of the quote. 
 
