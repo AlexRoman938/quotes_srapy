@@ -11,7 +11,9 @@ We will use Scrapy in this case.
 
 <h2> Why will we use Scrapy? </h2>
 
-It's a web scraping framework. And Scrapy is written in python.
+It's a web scraping framework. And Scrapy is written in python. 
+
+You can use xpath here... XPATH is a programming language to select nodos from XML document. For more information here -> https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjTman0wID2AhXoHrkGHV3GAtMQmhN6BAgpEAI&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FXPath&usg=AOvVaw0DWCMancexeClsn2L9Kgf5
 
 <h2> What website will we scrape? </h2>
 
@@ -25,6 +27,11 @@ In quotes to scrape website there are many quotes with its respective authors. T
 
 </h3> TO GET XPATH </h3>
 
-First, you need to into inspect element, and visualize the HTML of the quote.
+First, we need to into inspect element, and visualize the HTML structure of the quote. 
 
 ![image](https://user-images.githubusercontent.com/85772184/153972189-66975178-7540-4793-993c-a8bdfad32a5c.png)
+
+Next, we'll create the xpath 
+![image](https://user-images.githubusercontent.com/85772184/153972796-9da7bcdd-b437-4cd6-b0e4-c4b798ee245b.png)
+
+
