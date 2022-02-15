@@ -35,7 +35,9 @@ First, we need to into inspect element, and visualize the HTML structure of the 
 
 ![image](https://user-images.githubusercontent.com/85772184/153972189-66975178-7540-4793-993c-a8bdfad32a5c.png)
 
+
 Next, we'll create the xpath 
+
 ![image](https://user-images.githubusercontent.com/85772184/153972796-9da7bcdd-b437-4cd6-b0e4-c4b798ee245b.png)
 
 
