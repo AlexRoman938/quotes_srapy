@@ -16,6 +16,7 @@ It's a web scraping framework. And Scrapy is written in python.
 You can use xpath here... XPATH is a programming language to select nodos from XML document. 
 
 <strong>For more information about Scrapy here -> </strong> https://en.wikipedia.org/wiki/Scrapy
+
 <strong> For more information about XPATH here -> </strong> https://en.wikipedia.org/wiki/XPath
 
 <h2> What website will we scrape? </h2>
