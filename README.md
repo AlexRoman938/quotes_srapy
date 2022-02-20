@@ -41,26 +41,32 @@ What do we want?
 First, we need to into inspect element, and visualize the HTML structure of top ten tags, quotes and author.
 
 Top Ten Tags:
+
 ![image](https://user-images.githubusercontent.com/85772184/154829011-7e799f83-287e-4473-8cd7-5c87d800ac6a.png)
 
 
 Quotes:
+
 ![image](https://user-images.githubusercontent.com/85772184/153972189-66975178-7540-4793-993c-a8bdfad32a5c.png)
 
 Author:
+
 ![image](https://user-images.githubusercontent.com/85772184/154829027-cb9a8398-bb03-4ef1-b064-cb7c62ab0dcd.png)
 
 
 Next, we'll create the xpath of them.
 
 Top Ten Tags:
+
 ![image](https://user-images.githubusercontent.com/85772184/154829057-91a51985-24e3-4e13-9c13-09bc5be02658.png)
 
 
 Quotes:
+
 ![image](https://user-images.githubusercontent.com/85772184/153972796-9da7bcdd-b437-4cd6-b0e4-c4b798ee245b.png)
 
 Author:
+
 ![image](https://user-images.githubusercontent.com/85772184/154829047-9c1f5d1c-f11d-43d6-b599-f519b0bd1b55.png)
 
 
