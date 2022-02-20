@@ -42,16 +42,17 @@ First, we need to into inspect element, and visualize the HTML structure of top 
 
 Top Ten Tags:
 
-![image](https://user-images.githubusercontent.com/85772184/154829011-7e799f83-287e-4473-8cd7-5c87d800ac6a.png)
+![image](https://user-images.githubusercontent.com/85772184/154829116-2aee5deb-dcad-4e3d-bf34-ae279629938e.png)
 
 
 Quotes:
 
 ![image](https://user-images.githubusercontent.com/85772184/153972189-66975178-7540-4793-993c-a8bdfad32a5c.png)
 
+
 Author:
 
-![image](https://user-images.githubusercontent.com/85772184/154829027-cb9a8398-bb03-4ef1-b064-cb7c62ab0dcd.png)
+![image](https://user-images.githubusercontent.com/85772184/154829128-09c4edca-b2e8-4805-9c44-98e3838e991a.png)
 
 
 Next, we'll create the xpath of them.
