@@ -58,6 +58,7 @@ First, we need to into inspect element, and visualize the HTML structure of top 
 ![image](https://user-images.githubusercontent.com/85772184/154829128-09c4edca-b2e8-4805-9c44-98e3838e991a.png)
 
 
+
 Next, we'll create the xpath of them.
 
 <strong>Top Ten Tags: </strong>
