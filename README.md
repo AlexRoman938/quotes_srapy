@@ -47,6 +47,7 @@ First, we need to into inspect element, and visualize the HTML structure of top 
 
 ![image](https://user-images.githubusercontent.com/85772184/154829116-2aee5deb-dcad-4e3d-bf34-ae279629938e.png)
 
+You can see of each tags from top ten tags is in a div with class "tag-item". Last one will be very helpful.
 
 <strong>Quotes:</strong>
 
