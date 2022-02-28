@@ -54,7 +54,7 @@ You can see of each tags from top ten tags is in a div with class "tag-item". La
 ![image](https://user-images.githubusercontent.com/85772184/153972189-66975178-7540-4793-993c-a8bdfad32a5c.png)
 
 
-<strong>Author: </strong>
+<strong>Authors: </strong>
 
 ![image](https://user-images.githubusercontent.com/85772184/154829128-09c4edca-b2e8-4805-9c44-98e3838e991a.png)
 
