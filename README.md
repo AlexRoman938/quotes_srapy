@@ -19,7 +19,7 @@ You can use xpath here... XPATH is a programming language to select nodos from X
 
 <strong> For more information about XPATH here -> </strong> https://en.wikipedia.org/wiki/XPath
 
-<h2> What website will we scrape? </h2>
+<h2>What website will we scrape?</h2>
 
 http://quotes.toscrape.com/page/1/
 
